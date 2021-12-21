@@ -1,7 +1,9 @@
 # HungryShark
  A mini-game of Shark eating fishes
- 
-Reources and Refrences:
-www.GodsAndIdols.com 
+<br/><br/>
+
+
+Reources and Refrences:<br/>
+www.GodsAndIdols.com <br/>
 http://opengameart.org/content/ugly-shark
  
